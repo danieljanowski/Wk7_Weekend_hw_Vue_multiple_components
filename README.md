@@ -1,6 +1,6 @@
 # Vue application utilising SpaceX API
-App displays the list of past and future launches, showing information about chosen one and associated launch video
-Technologies: VUE, Javascript, API
+- App displays the list of past and future launches, showing information about chosen one and associated launch video
+- Technologies: VUE, Javascript, API
 
 # Weekend Homework: Vue Application with Requests
 
